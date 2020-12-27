@@ -83,3 +83,9 @@ body
     margin-left: auto;
     margin-right: auto;
 }
+
+#topBar-inside-1button > a
+{
+    color: white;
+    text-decoration: none;
+}
